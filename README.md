@@ -13,7 +13,7 @@ Key value data store that supports basic CRD operation
 
 ###### Creating an instance
 ```
-import key_value_ds
+import datastore_keyvalue
 ds_instance = key_value_ds.get_instance()
 ```
 
